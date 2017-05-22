@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/diyan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kfty.github.io
+  * I am diyan (https://keybase.io/diyan) on keybase.
+  * I have a public key with fingerprint 66B4 18FE E579 8D79 883E  2BE4 6A2A 9964 1FA7 A0AF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01011a4e804801e60959f29a4bd9c63187bf9bd0f0b238b57857acf8e5d52e6d4c760a",
+            "fingerprint": "66b418fee5798d79883e2be46a2a99641fa7a0af",
+            "host": "keybase.io",
+            "key_id": "6a2a99641fa7a0af",
+            "kid": "01011a4e804801e60959f29a4bd9c63187bf9bd0f0b238b57857acf8e5d52e6d4c760a",
+            "uid": "8cbf06c74b2df9d4276c7e58cec92e19",
+            "username": "diyan"
+        },
+        "service": {
+            "hostname": "kfty.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1495456278,
+    "expire_in": 157680000,
+    "prev": "85535d9c3ab99363841e86198de4b38764d29382e525d33923ee834485365b31",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMIpAnicrVJbSBVBGD6mmVmK2IXyQWjRSjDby8zuzImCEMRSoxCCyjjs7M6es5m7
+x7N7rJMJRRfk0OVBPeWDEaJRPiQS4YNReYruReqTkgbdixR6kgqzWbO3HhsYhv//
+v++b//tn7mel+jJTLlfFd7ZeakxPeTqYiPr2cGMrGzli6zHO38jV0rmDHtSp4wZq
+TZ3zc7zAC4IKKOIB4gUq8xhiQ8QqIDrWZElACjEw0XmDJ6KECFQQVFTNQBTqUKSy
+DjRF5lWumDNMK0gj4YhpuUxWlgkQkEEpVDDS2UYSFQkFsiqqGMtAMFRF5VWDEUO2
+4zFYc0R1aIlpsxwLAnPt/QP/n/uOzskhjRi8rCmAiLqBdSAqLKAQaVTDIhWwB3Ro
+xFLrKEPrZky1uKZijqUaTI16U/VszJdrDTdWEjTdUJT8sROO2K6t2QdZLeS6Ycfv
+cd1Y2AMfoiQwLxMgpqWzMTJGA404pm1xfoEhNdf0dAWAIYCyqKBijh4OmxEaMD0E
+VGTEs+XdQxs8MxBKkI1BUgnGkiwhIFAkC+whKCASUmSgi1hCIoUi1CUJixKlSAIA
+QUmGRBI4z1i9ZXN+mbWpBpmkYwYt1Y1GKNeUvFuT5kvJ9KUvXOB9L1/m4py/n+7t
+x0Uzy1I+HM1LvTLUdbuuenJpf+9Ac3L1z437Z1+Plx8ZKuuvv1+anXxQ0v85OPN+
+W37FjYzxW4nd3efPRMDZ/UvrSmvUgniPvTJr7ZKyi0VPnr2Mt9W1PvzaUXH9cKKl
+4GzbycFX33LD+aGaznj16Lkt6HtNUcm95Xj5zdR3vXF+VfTCotGvZUPrEncC3Z8S
+TYNZj/qsO7lbh9dMx6JK5VvSPPOrYH37VOWpLRm7qlfkpBd+yQ7l/BhoKM/tbC/Y
+64xM+PdmFp+e3j6u7TPbb3RphS8m7dmWA3pP/TX6/O7Iicpw3uYNwpIvha87hnYk
+J9JuL3vDX206vml6U9/UsaQzVjWMHv8GlCg9/g==
+=KD5o
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/diyan
+
+==================================================================
